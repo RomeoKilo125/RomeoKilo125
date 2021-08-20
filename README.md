@@ -1,4 +1,4 @@
-![#C. Ross W. King](cv_banner.png)
+![C. Ross W. King](cv_banner.png)
 
 ## Contact
 
@@ -35,8 +35,8 @@
 ![invision](https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white)
 ![gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
-
 ## Stats
+
 ![stats](https://github-readme-stats.vercel.app/api?username=RomeoKilo125&hide=contribs&theme=bear&count_private=true)
 
 <!--
