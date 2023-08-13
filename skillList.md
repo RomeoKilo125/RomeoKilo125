@@ -36,3 +36,11 @@
 - GraphQL
 - Apollo
 - Firebase ?
+
+## new
+
+- next
+- typescript
+- react query
+- vercel (deployment)
+- rust
