@@ -44,3 +44,5 @@
 - react query
 - vercel (deployment)
 - rust
+- d3.js
+- spring
