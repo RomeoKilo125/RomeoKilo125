@@ -2,27 +2,28 @@
 
 ## readme
 
-- react
-- html5
-- css3
-- sass
-- bootstrap
-- javascript
-- chartJS
+- React
+- HTML5
+- CSS3
+- Sass
+- Bootstrap
+- JavaScript
+- ChartJS
 
 ------
 
-- express
-- node
-- mysql
-- mongo
-- sqlite
+- Express
+- Node
+- MySQL
+- MongoDB
+- SQLite
 
 ------
 
-- git
-- jira
-- heroku
+- Git
+- Jira
+- Heroku
+- Render
 - invision
 - gimp
 
@@ -35,14 +36,17 @@
 - Jest
 - GraphQL
 - Apollo
-- Firebase ?
 
 ## new
 
-- next
-- typescript
-- react query
-- vercel (deployment)
-- rust
-- d3.js
-- spring
+- CPWA
+- Next
+- TypeScript
+- React Query
+- Vercel (deployment)
+- Rust
+- D3.js
+- Spring
+- Vue
+- postgreSQL
+- Python?
