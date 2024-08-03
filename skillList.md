@@ -25,7 +25,6 @@
 - Heroku
 - Render
 - invision
-- gimp
 
 ## resume
 
