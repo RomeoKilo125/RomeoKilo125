@@ -9,16 +9,16 @@ Full-stack Software Engineer and Analyst with 15+ years of experience. Passionat
 
 ## Skills & Certifications
 
-- __Certifications:__ IAAP Certified Professional in Accessibility Core Competencies (CPACC)
-- __Languages, Libraries & Frameworks:__ JavaScript, HTML, CSS, Handlebars, Java, MySQL, MongoDB, Sequelize, Mongoose, Express, React, Node, SQLite
-- __Tools:__ Git, Jest, GraphQL, ESLint, GeckoDriver
-- __Practices:__ Agile/Scrum, Test-Driven Development, REST API Design, CI/CD
+- **Certifications:** IAAP Certified Professional in Accessibility Core Competencies (CPACC)
+- **Languages, Libraries & Frameworks:** JavaScript, HTML, CSS, Handlebars, Java, MySQL, MongoDB, Sequelize, Mongoose, Express, React, Node, SQLite
+- **Tools:** Git, Jest, GraphQL, ESLint, GeckoDriver
+- **Practices:** Agile/Scrum, Test-Driven Development, REST API Design, CI/CD
 
 ## Experience
 
 ### Assistant VP, Software Engineer II  
 
-__Bank of America — Charlotte, NC__  
+**Bank of America — Charlotte, NC**  
 _Feb 2020 – Present_  
 
 - Collaborate closely with UX, business analysts, accessibility specialists, and external teams to clarify requirements, align expectations, and deliver accessible, scalable software.
@@ -30,7 +30,7 @@ _Feb 2020 – Present_
 
 ### Instructional Staff  
 
-__2U/EdX — Remote__  
+**2U/EdX — Remote**  
 _Apr 2019 – Dec 2024_  
 
 - Teach full-stack web development for Penn LPS and University of Connecticut bootcamps.
@@ -39,7 +39,7 @@ _Apr 2019 – Dec 2024_
 
 ### Sr. Automation Engineer / Business Analyst  
 
-__Windstream — Charlotte, NC__  
+**Windstream — Charlotte, NC**  
 _May 2015 – Feb 2020_  
 
 - Built internal full-stack apps and automation tools for billing, order entry, and service workflows.
@@ -48,5 +48,5 @@ _May 2015 – Feb 2020_
 
 ## Education
 
-- __UNC Charlotte__ — Full Stack Web Development Bootcamp, 2018  
-- __Wingate University__ — B.S. Psychology, 2005
+- **UNC Charlotte** — Full Stack Web Development Bootcamp, 2018  
+- **Wingate University** — B.S. Psychology, 2005
