@@ -8,19 +8,13 @@ Full-stack Software Engineer and Analyst with 15+ years of experience. Passionat
 
 ## Skills
 
-| Languages       | Libraries & Frameworks | Tools          | Practices                   |
-| --------------- | ---------------------- | -------------- | --------------------------- |
-| JavaScript      | Handlebars             | Git            | Agile/Scrum                 |
-| HTML            | MySQL                  | Jest           | Test-Driven Development     |
-| CSS             | MongoDB                | ESLint         | REST API Design             |
-| Java            | Express                | Github Copilot | CI/CD                       |
-| SQL             | React                  |                | Object-Oriented Programming |
-| C# (Learning)   | Node                   |                | *NOT Vibe Coding*           |
-| Rust (Learning) | Sequelize              |                |                             |
-| C++ (Learning)  | Mongoose               |                |                             |
-|                 | SQLite                 |                |                             |
-|                 | GraphQL                |                |                             |
-|                 | Spring Boot            |                |                             |
+**Languages:** JavaScript, HTML, CSS, Java, SQL, C# (Learning), Rust (Learning), C++ (Learning)
+
+**Libraries & Frameworks:** Handlebars, MySQL, MongoDB, Express, React, Node, Sequelize, Mongoose, SQLite, GraphQL, Spring Boot
+
+**Tools:** Git, Jest, ESLint, Github Copilot
+
+**Practices:** Agile/Scrum, Test-Driven Development, REST API Design, CI/CD, Object-Oriented Programming, *NOT Vibe Coding*
 
 ## Certifications
 
