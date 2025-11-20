@@ -8,13 +8,13 @@ Full-stack Software Engineer and Analyst with 15+ years of experience. Passionat
 
 ## Skills
 
-**Languages:** JavaScript, HTML, CSS, Java, SQL, C# (Learning), Rust (Learning), C++ (Learning)
+**Languages:** JavaScript/TypeScript, HTML, CSS, Java, SQL, C# (Learning), Rust (Learning), C++ (Learning)
 
-**Libraries & Frameworks:** Handlebars, MySQL, MongoDB, Express, React, Node, Sequelize, Mongoose, SQLite, GraphQL, Spring Boot
+**Libraries & Frameworks:** Handlebars, MySQL, MongoDB, Express, React, Redux, Node, Sequelize, Mongoose, SQLite, Apollo, GraphQL, Spring Boot
 
 **Tools:** Git, Jest, ESLint, Github Copilot
 
-**Practices:** Agile/Scrum, Test-Driven Development, REST API Design, CI/CD, Object-Oriented Programming, *NOT Vibe Coding*
+**Practices:** Agile/Scrum, Test-Driven Development, REST API Design, CI/CD, Object-Oriented Programming,
 
 ## Certifications
 
@@ -25,7 +25,7 @@ Full-stack Software Engineer and Analyst with 15+ years of experience. Passionat
 ### Assistant VP, Software Engineer II  
 
 **Bank of America &mdash; Charlotte, NC**  
-*Feb 2020 - Present*  
+*Feb 2020 &ndash; Present*  
 
 - Collaborate closely with UX, business analysts, accessibility specialists, and external teams to clarify requirements, align expectations, and deliver accessible, scalable software.
 - Contribute to a department-wide Accessibility Center of Excellence and lead integration of accessibility best practices.
@@ -38,25 +38,26 @@ Full-stack Software Engineer and Analyst with 15+ years of experience. Passionat
 ### Instructional Staff  
 
 **2U/EdX &mdash; Remote**  
-*Apr 2019 - Dec 2024*  
+*Apr 2019 &ndash; Dec 2024*  
 
 - Taught full-stack web development for Penn LPS and University of Connecticut coding boot-camps.
-- Instructed cohorts of 30+ students in HTML, CSS, JavaScript, Node, React, SQL, MongoDB, and GraphQL.
+- Instructed cohorts of 30+ students in HTML, CSS, JavaScript/TypeScript, Node, React/Redux, SQL, MongoDB, and GraphQL.
 - Maintained an 80%+ graduation rate and received consistently high ratings from students and administrators.
 
 ### Sr. Automation Engineer / Business Analyst  
 
 **Windstream &mdash; Charlotte, NC**  
-*May 2015 - Feb 2020*  
+*Sep 2008 &ndash; Feb 2020*  
 
 - Built internal full-stack apps and automation tools for billing, order entry, and service workflows.
 - Generated over $4M/year in labor cost savings and $3M/year in revenue recovery via audits and automation.
 - Designed SQL reporting pipelines to support automated business processes.
+- Tech "Stack": AutoIt, SQLite, GeckoDriver, DB2, Business Objects
 
 ### Supervisor
 
 **Windstream &mdash; Charlotte, NC**
-*Sep 2012 - May 2015*
+*Sep 2012 &ndash; May 2015*
 
 - Collaborate with other Supervisors to guide a large department through uncertain times with frequent changes of higher leadership, including extended periods of time without it entirely.
 - Lead a team of 12 Front-line employees through daily activities. Including regular stand-up meetings, work onboarding, and status reporting.
@@ -66,5 +67,5 @@ Full-stack Software Engineer and Analyst with 15+ years of experience. Passionat
 
 ## Education
 
-- **UNC Charlotte** — Full Stack Web Development Bootcamp, 2018  
-- **Wingate University** — B.S. Psychology, 2005
+- **UNC Charlotte** &mdash; Full Stack Web Development Bootcamp, 2018  
+- **Wingate University** &mdash; B.S. Psychology, 2005
