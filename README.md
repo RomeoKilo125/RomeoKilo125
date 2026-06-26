@@ -36,7 +36,7 @@
 
 ## Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=RomeoKilo125&hide=contribs&theme=bear&count_private=true)
+![stats](https://github-readme-stats.vercel.app/api?username=RomeoKilo125)
 
 <!--
 Here are some ideas to get you started:
